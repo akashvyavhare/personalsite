@@ -1,0 +1,130 @@
+.top
+{
+
+    background-color: darkcyan;
+   position: relative;
+   padding-top: 100px;
+}
+body{
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+p{    margin-top: 0px;
+    padding: 20px;
+    font-family: 'Bellefair', serif;
+    font-size: 120%;
+    width: 50%;
+    margin: auto;
+    line-height: 2;
+    
+
+}
+h1{
+    color: #F0E5CF;
+    font-size: 250%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Pattaya', sans-serif;
+   
+}
+h2{
+    font-family: 'Mukta', sans-serif;
+    color: #38A3A5;
+font-size: 150%;
+}
+h3{
+    font-family: 'Mukta', sans-serif;
+    font-weight: bold;
+    color: #38A3A5;
+    
+font-size: 120%;
+}
+.dpimg{
+    border-radius: 100%;
+}
+
+.cloud1
+{
+    height:100px;
+    width: 100px;
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    
+}
+.cloud2{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 300px;
+    top: 200px;
+    
+  
+}
+hr{
+    border: dotted;
+    border-width: 10px;
+    width: 10%;
+    border-bottom: none;
+    color: darkslategray;
+    margin: 80px auto;
+}
+.mountain{
+    height: 300px;
+   width: 100%;
+}
+.skill-row{
+   margin: auto;
+   margin-top: 100px;
+   margin-bottom: 100px;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+}
+
+
+.skill-img1{
+    float: left;
+    background-color: powderblue;
+    margin-right: 30px;
+}
+.skill-img2{
+    background-color: powderblue;
+    float: right;
+ 
+}
+.middle-container{
+    padding: 100px 0;
+    background-color: papayawhip;
+}
+.bottom-container{
+    background-color: saddlebrown;
+  padding: 20px;
+
+
+}
+.footer-link{
+    text-decoration: none;
+    font-size: 20px;
+    color: seashell;
+    
+}
+.footer-link:hover{
+    color: slateblue;
+}
+.rights{
+    color: tomato;
+}
+.btn{
+    background-color: steelblue;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 10px;
+    color: cyan;
+    
+}.btn:hover{
+    color: cornsilk;
+}
